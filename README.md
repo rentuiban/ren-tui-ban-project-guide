@@ -28,6 +28,8 @@
 
 **为什么新手从网盘拉新入手**：需求真实（网盘是刚需工具）、流程标准化（官方教程齐全）、结算规则清晰。
 
+**迅雷网盘有独立的等级佣金体系**：1-7 级阶梯单价 6~15 元/单、周结（每周四）、链接+中文口令双推广方式，还有会员赠送与网盘扩容权益——细节见[迅雷网盘拉新指南](docs/xunlei-guide.md)。
+
 跟做教程：[夸克网盘拉新申请教程](https://rentuibang.app/articles/tutorials/how-to-register) · [百度网盘拉新实战教程](https://rentuibang.app/articles/tutorials/baidu-pan-laxin-rentuibang)
 
 ## 新手怎么选项目：三个匹配
