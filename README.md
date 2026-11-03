@@ -30,6 +30,8 @@
 
 **迅雷网盘有独立的等级佣金体系**：1-7 级阶梯单价 6~15 元/单、周结（每周四）、链接+中文口令双推广方式，还有会员赠送与网盘扩容权益——细节见[迅雷网盘拉新指南](docs/xunlei-guide.md)。
 
+![任推邦官网网盘佣金对比表（2026）](docs/images/download-commission.jpg)
+
 跟做教程：[夸克网盘拉新申请教程](https://rentuibang.app/articles/tutorials/how-to-register) · [百度网盘拉新实战教程](https://rentuibang.app/articles/tutorials/baidu-pan-laxin-rentuibang)
 
 ## 新手怎么选项目：三个匹配
